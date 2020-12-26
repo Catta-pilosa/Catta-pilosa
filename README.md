@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My🐱 name is SHI, Zhongyi (Chinese: 施仲翼<!--; IPA:[ʂʅ tʂɔŋ i]-->). I am currently a first-year Ph. D. student in HKUST major in geometry. 
+My🐱 name is SHI, Zhongyi (Chinese: 施仲翼<!--; IPA:[ʂʅ tʂɔŋ i]-->). I am currently a first-year Ph. D. student in HKUST majoring in geometry. 
